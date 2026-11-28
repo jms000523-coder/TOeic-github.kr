@@ -1,0 +1,43 @@
+{
+  "85p_rows_extracted": 2110,
+  "85p_missing_meaning": 0,
+  "100word_records_extracted": 597,
+  "pdf_unique_words": 2394,
+  "final_app_words": 2412,
+  "missing_meaning_final": 0,
+  "missing_example_final": 1857,
+  "part5_total": 500,
+  "part5_type_counts": {
+    "동사": 49,
+    "전치사": 66,
+    "비교": 36,
+    "접속사": 52,
+    "어휘·숙어": 36,
+    "품사": 59,
+    "준동사": 49,
+    "관계사": 43,
+    "조동사·가정법": 36,
+    "어휘": 12,
+    "대명사": 31,
+    "형용사·부사": 31
+  },
+  "part5_level_counts": {
+    "기초": 107,
+    "중급": 276,
+    "고급": 117
+  },
+  "85p_extracted_word_rows": 2110,
+  "85p_unparsed_rows": 0,
+  "85p_indexed_entries": 2109,
+  "85p_double_column_extra_words": 1,
+  "100word_expected_rows": 597,
+  "100word_unparsed_rows_estimate": 0,
+  "85p_meaning_missing": 0,
+  "100word_examples_linked": 555,
+  "100word_examples_needing_visual_recheck": 30,
+  "final_meaning_missing": 0,
+  "final_entries_with_examples": 555,
+  "final_entries_without_examples": 1857,
+  "words_with_source_row_reference": 2339,
+  "100word_source_row_references": 597
+}
